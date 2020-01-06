@@ -9,6 +9,12 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/orders.png?alt=media&token=c36056d9-9cc6-4b43-9d73-5e1aad114fea"/>
 <p align="center">User Setting</p>
 <img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/user%20page.png?alt=media&token=6bc0bb1f-b470-4f0e-8d87-5822888c5708"/>
+<p align="center">Cateory</p>
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/categorry.png?alt=media&token=a723c122-eb37-40b1-a1af-117aaa28fc5b"/>
+<p align="center">Add to cad </p>
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/imagetem.png?alt=media&token=29a4dd33-d26f-474e-8998-acb725940f9f"/>
+<p align="center"> Checkout </p>
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/shopping.png?alt=media&token=3272c373-d83c-4dd3-add5-a1efcff21aea"/>
 
 
 ## About Laravel
